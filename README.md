@@ -2,6 +2,28 @@
 
 카카오테크 부트캠프 1기에서 활동한 내용들을 기록합니다 📝
 
+## 🌱 TDD, OOP, Web/DB 기초
+
+- 자바 언어, 스프링 프레임워크에 대한 기본 문법을 익혀 기본 웹 프로그래밍 역량을 쌓는다.
+- 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
+- 상호 리뷰와 지식 공유를 통해 함께 성장한다.
+- 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
+- 스프링 프레임워크를 기본 문법을 익히고, 1차 팀 프로젝트(7~8월)에서 애플리케이션을 개발한다.
+
+|미션 주제|PR & Reviews|
+|:---|:---|
+| Java On Boarding | [PR-Review](https://github.com/Japring-Study/java-onboarding-week-1/pull/2) |
+| Java & OOP | [PR-Review](https://github.com/Japring-Study/java-lotto/pull/3) |
+| Spring-MVC-1 | [PR-Review1](https://github.com/Japring-Study/spring-learning-test/pull/2) |
+| Spring-MVC-2 | [PR-Review15](https://github.com/Japring-Study/spring-learning-test/pull/15) |
+| Spring-MVC-3 | [PR-Review16](https://github.com/Japring-Study/spring-learning-test/pull/16) |
+| Spring-MVC-4 | [PR-Review17](https://github.com/Japring-Study/spring-learning-test/pull/15) |
+| Spring-JDBC-1 | [PR-Review37](https://github.com/Japring-Study/spring-learning-test/pull/37) |
+| Spring-CORE-1 | [PR-Review38](https://github.com/Japring-Study/spring-learning-test/pull/38) |
+| Spring-CORE-2 | [PR-Review39](https://github.com/Japring-Study/spring-learning-test/pull/39) |
+| Spring-Data-JPA-1 | [PR-Review55](https://github.com/Japring-Study/spring-learning-test/pull/55) |
+| Spring-Data-JPA-2 | [PR-Review56](https://github.com/Japring-Study/spring-learning-test/pull/56) |
+
 
 
 ## 🖋 블로깅
