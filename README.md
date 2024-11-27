@@ -1,7 +1,7 @@
 
 
-## 🖋 블로깅
 
+## 🖋 블로깅
 
 > 교육 과정 시작일(2024.07.01)부터 현재(2022.11.28)까지 총 105개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
@@ -219,16 +219,16 @@
 | 13 | [상속](https://velog.io/@msung99/%EC%83%81%EC%86%8D) | JAVA |
 | 12 | [객체와 메모리](https://velog.io/@msung99/%EA%B0%9D%EC%B2%B4%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC) | JAVA |
 | 11 | [클래스 메소드](https://velog.io/@msung99/%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A9%94%EC%86%8C%EB%93%9C) | JAVA |
-| 10 | [클래스](https://velog.io/@msung99/%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
-| 9 | [[JAVA] 반복문](https://velog.io/@msung99/JAVA-%EB%B0%98%EB%B3%B5%EB%AC%B8) | JAVA |
-| 8 |  [조건문(if,switch)](https://velog.io/@msung99/%EC%A1%B0%EA%B1%B4%EB%AC%B8ifswitch) | JAVA |
-| 7 | [[JAVA] 연산자](https://velog.io/@msung99/JAVA-%EC%97%B0%EC%82%B0%EC%9E%90) | JAVA |
-| 6 | [[JAVA] 배열](https://velog.io/@msung99/JAVA-%EB%B0%B0%EC%97%B4-q4b012oo) | JAVA |
-| 5 | [[JAVA] 배열과 메모리](https://velog.io/@msung99/JAVA-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-4h6hj6ej) | JAVA |
-| 4 | [[JAVA] 특수 문자와 서식 문자](https://velog.io/@msung99/%ED%8A%B9%EC%88%98-%EB%AC%B8%EC%9E%90%EC%99%80-%EC%84%9C%EC%8B%9D-%EB%AC%B8%EC%9E%90) | JAVA |
-|  3| [[JAVA] 자료형](https://velog.io/@msung99/%EC%9E%90%EB%A3%8C%ED%98%95) | JAVA |
-| 2 | [[JAVA] 변수](https://velog.io/@msung99/%EB%B3%80%EC%88%98) | JAVA |
-| 1 | [자바 프로그램의 실행 구조](https://velog.io/@msung99/%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EC%8B%A4%ED%96%89-%EA%B5%AC%EC%A1%B0) | JAVA |
+| 10 | [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 (feat. 싱글톤)](https://haon.blog/haon/java/object-injection/) | `JAVA`, `싱글톤` |
+| 9 | [혼란스러운 단위, 통합, 인수, 시스템 테스트. 명확한 테스트 격리 수준 정리 😵‍💫](https://haon.blog/test/type/) | `테스트` |
+| 8 | [간략히 적어보는 카카오테크 1주차 생활 회고](https://haon.blog/%ED%9A%8C%EA%B3%A0/first-week/) | `회고` |
+| 7 | [자바 String, StringBuilder, StringBuffer 개념](https://haon.blog/haon/java/string-builder/) | `JAVA` |
+| 6 | [자바의 Comparator 과 Comparable 인터페이스](https://haon.blog/haon/java/comparable-comparator/) | `JAVA`, `Comparator`, `Comparable` |
+| 5 | [VO(Value Object) 란 무엇이고, 캡슐화를 통해 얻는 이점은 무엇인가?](https://haon.blog/haon/java/vo/) | `JAVA`, `VO` |
+| 4 | [[자바의 스트림(Stream) 이란 무엇이고, 어떻게 사용하는걸까?](https://haon.blog/haon/java/stream/) | `JAVA`, `stream` |
+| 3 | [자바 컬렉션(Collection) 의 개념과 종류](https://haon.blog/haon/java/collection/) | `JAVA` |
+| 2 | [[프로그래밍을 공부하며 능동적인 성장을 위한 학습방법](https://haon.blog/%ED%9A%8C%EA%B3%A0/growth-learning/) | `공부법`, `회고`, `메타인지` |
+| 1 | [2024년 카카오테크 코스 최종 합격까지, 상반기 회고](https://haon.blog/%ED%9A%8C%EA%B3%A0/2024-with-kakaotech/) | `회고`, `카카오테크` |
 
 
 
