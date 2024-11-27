@@ -24,6 +24,21 @@
 | Spring-Data-JPA-1 | [PR-Review55](https://github.com/Japring-Study/spring-learning-test/pull/55) |
 | Spring-Data-JPA-2 | [PR-Review56](https://github.com/Japring-Study/spring-learning-test/pull/56) |
 
+## 🌳 HTTP 웹 서버 Spring MVC 프레임워크 구현하기
+
+시리즈 : https://haon.blog/series/http-웹서버-spring-mvc-프레임워크-구현하기/
+
+- 현존하는 라이브러리와 프레임워크를 바닥부터 다시 개발해보는 경험을 통한 HTTP, 자바 멀티 쓰레딩, 서블릿, 스프링 프레임워크, JDBC에 대한 깊은 이해
+- DDD를 통해 레거시 코드를 리팩토링 해보는 경험
+- [자바 웹 프로그래밍 Next Step](https://github.com/slipp/jwp-book) 내의 미션 수행, 개인 스터디로 진행
+
+|미션 주제|포스트 정리|
+|:---|:---|
+|HTTP 웹 서버 기초 구현|[HTTP 웹 서버를 직접 구현하여 프로토콜 스펙을 이해해보자!](https://haon.blog/haon/spring/was-implementation/#requesthandler)| 
+|JDBC 라이브러리 구현하기|[레거시 DAO 를 리팩토링하며 JDBC 라이브러리 구현하기](https://haon.blog/haon/spring/jdbc-library-implementation/)| 
+|@MVC 프레임워크 구현하기 Step 1|[AJAX 기반 레거시 MVC 프레임워크 구현하기](https://haon.blog/haon/spring/ajax-based-mvc-impementation/)| 
+|@MVC 프레임워크 구현하기 Step 2|[어노테이션 기반 Spring MVC 프레임워크 구현하기](https://haon.blog/haon/spring/annotation-mvc-framework/)| 
+|@MVC 프레임워크 구현하기 Step 3|[어노테이션 기반 DI 컨테이너 프레임워크 구현하기](https://haon.blog/haon/spring/di-container-implementation/)| 
 
 
 ## 🖋 블로깅
