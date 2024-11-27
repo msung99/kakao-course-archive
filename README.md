@@ -179,16 +179,16 @@
 | 53 | [0. 코딩테스트 유형 분석 + 기초작성요령](https://velog.io/@msung99/0.-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9C%A0%ED%98%95-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88%EC%9E%91%EC%84%B1%EC%9A%94%EB%A0%B9) | 코딩테스트 스터디 진행자료, 알고리즘 |
 | 52 | [다이나믹 프로그래밍(DP)](https://velog.io/@msung99/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DDP) | 알고리즘 |
 |  51| [장고 공통 필드 속성](https://velog.io/@msung99/%EC%9E%A5%EA%B3%A0-%EA%B3%B5%ED%86%B5-%ED%95%84%EB%93%9C-%EC%86%8D%EC%84%B1) | Django |
-| 50 | [Counting Sort, Radix Sort, STL Sort](https://velog.io/@msung99/Counting-Sort-Radix-Sort-STL-Sort) | 알고리즘 |
-| 49 | [선택정렬, 버블정렬, 병합정렬, 퀵정렬](https://velog.io/@msung99/%EC%A0%95%EB%A0%AC1) | 알고리즘 |
-| 48 | [CRUD](https://velog.io/@msung99/CRUD) | Django |
-| 47 | [Web FrameWork](https://velog.io/@msung99/Web-FrameWork) | Django |
-| 46 | [웹 브라우저, HTTP 요청, 서버](https://velog.io/@msung99/Web-Service-%EA%B8%B0%EC%B4%88) | Django, HTTP |
-|  45| [크롤링](https://velog.io/@msung99/%ED%81%AC%EB%A1%A4%EB%A7%81) | Django |
-| 44 | [트리](https://velog.io/@msung99/%ED%8A%B8%EB%A6%AC-bdlnx9kt) | 알고리즘 |
-| 43 | [백트래킹](https://velog.io/@msung99/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | 알고리즘 |
-|  42| [재귀](https://velog.io/@msung99/%EC%9E%AC%EA%B7%80) | 알고리즘 |
-| 41 | [DFS (다차원 배열)](https://velog.io/@msung99/DFS) | 알고리즘 |
+| 50 | [코드 커버리지(Code Coverage) 에 대하여](https://haon.blog/test/code-coverage/) | `Spring`, `테스트` |
+| 49 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://haon.blog/test/isolated-active/) | `Spring`, `테스트` |
+| 48 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 - 이론편](https://haon.blog/test/isolated-theory/) | `Spring`, `테스트` |
+| 47 | [하모니 팀의 Rest Docs 와 MockMvc 를 활용한 API 문서 자동화](https://haon.blog/spring/rest-docs/) | `Spring`, `하모니`, `Rest Docs` |
+| 46 | [트랜잭션의 격리수준과 각 수준의 문제점과 해결방안](https://haon.blog/database/transaction-isolation-level/) | `트랜잭션` |
+| 45 | [페이징과 세그먼테이션은 어떻게 가상 메모리를 관리할까?](https://haon.blog/cs/os/page-segmentation/) | `OS`, `페이징`, `세그먼테이션` |
+| 44 | [데드락(Deadlock) 의 발생조건과 이를 해결하기 위한 4가지 방안(예방, 회피, 검출, 회복)](https://haon.blog/cs/os/deadlock/) | `OS`, `데드락` |
+| 43 | [하모니 팀의 협업 프로세스를 소개합니다.](https://haon.blog/github/harmony-strategy/) | `Git`, `Git-Flow`, `하온` |
+| 42 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://haon.blog/spring/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
+| 41 | [Slf4j logback 이란 무엇이며, 왜 로깅을 해야할까? 💁‍♂️](https://haon.blog/spring/logging-slf4j/) | `스프링`, `Slf4j`, `로깅` |
 | 40 | [AWS EC2, Nginx 를 활용하여 스프링 애플리케이션 배포하기](https://haon.blog/haon/infra/deploy/ec2+nginx/) | `배포`, `Nginx` |
 | 39 | [Nginx 기반 HTTPS 프로토콜을 적용하여 서비스 배포하기](https://haon.blog/haon/infra/nginx/https/) | `Nginx`, `HTTPS`, `Certbot` |
 | 38 | [RefeshToken 은 AccessToken 의 문제점을 해결하기위해 등장했다](https://haon.blog/spring/access-refresh-token/) | `HTTP`, `인증/인가` |
