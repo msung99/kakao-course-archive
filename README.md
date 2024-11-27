@@ -169,16 +169,16 @@
 | 63 | [우선순위 큐(priority queue)](https://velog.io/@msung99/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90priority-queue) | 코딩테스트 스터디 진행자료, 알고리즘 |
 | 62 | [배열 & vector](https://velog.io/@msung99/%EB%B0%B0%EC%97%B4-vector) |  코딩테스트 스터디 진행자료, 알고리즘 |
 | 61 | [투 포인터](https://velog.io/@msung99/%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 60 | [그리디](https://velog.io/@msung99/%EA%B7%B8%EB%A6%AC%EB%94%94) | 알고리즘 |
-| 59 | [시간 & 공간 복잡도](https://velog.io/@msung99/%EC%8B%9C%EA%B0%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 58 | [쿠키(Cookie)와 세션(Session), Django에서는 어떻게 사용할까?](https://velog.io/@msung99/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98) | Django, HTTP |
-| 57 | [[Github] 토큰 인증 로그인(Personal Access Token)](https://velog.io/@msung99/%ED%86%A0%ED%81%B0-%EB%B0%9C%ED%96%89%ED%9B%84-git-%EC%97%90%EB%8B%A4-push) | Git |
-| 56 | [Django 세션 기반인증, 토큰 기반인증](https://velog.io/@msung99/%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B0%98%EC%9D%B8%EC%A6%9D-%ED%86%A0%ED%81%B0-%EA%B8%B0%EB%B0%98%EC%9D%B8%EC%A6%9D) | Django, HTTP |
-| 55 | [git rebase, conflict 수정, 브렌치명 등 관련](https://velog.io/@msung99/git-rebase-conflict-%EC%88%98%EC%A0%95-%EB%B8%8C%EB%A0%8C%EC%B9%98%EB%AA%85-%EB%93%B1-%EA%B4%80%EB%A0%A8-kfp5g2z0) | Git |
-| 54 | [git merge 전략 (merge, rebase merge, squash merge)](https://velog.io/@msung99/git-merge-%EC%A0%84%EB%9E%B5-merge-rebase-merge-squash-merge) | Git |
-| 53 | [0. 코딩테스트 유형 분석 + 기초작성요령](https://velog.io/@msung99/0.-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9C%A0%ED%98%95-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88%EC%9E%91%EC%84%B1%EC%9A%94%EB%A0%B9) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 52 | [다이나믹 프로그래밍(DP)](https://velog.io/@msung99/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DDP) | 알고리즘 |
-|  51| [장고 공통 필드 속성](https://velog.io/@msung99/%EC%9E%A5%EA%B3%A0-%EA%B3%B5%ED%86%B5-%ED%95%84%EB%93%9C-%EC%86%8D%EC%84%B1) | Django |
+| 60 | [Redis 를 활용하여 Refresh 토큰 접근속도 개선하기](https://haon.blog/haon/redis/refresh-token/) | `Redis`, `인증/인가` |
+| 59 | [자바 객체의 동일성(identity)와 동등성(equality)](https://haon.blog/haon/java/equality-identity/) | `JAVA`, `동일성` |
+| 58 | [자바의 EnumMap은 무엇이고, 왜 HashMap 보다 성능이 더 빠른가?](https://haon.blog/haon/java/enum-map/) | `JAVA`, `ENUM`, `HashMap` |
+| 57 | 자바 Enum 타입, 그거 어떻게 사용하는건데 🤷‍♂️](https://haon.blog/haon/java/enum/) | `JAVA` |
+| 56 | [JDBC 에서 데이터베이스 커넥션 풀 다루기 (feat. JDBC Driver, DataSource, HikariCP)](https://haon.blog/database/jdbc-connection-pool/) | `Spring`, `DBCP` |
+| 55 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://haon.blog/database/hikaricp-theory/) | `Spring`, `DBCP` |
+| 54 | [JPA Auditing 으로 엔티티의 생성/수정 시간 자동 추적하기](https://haon.blog/spring/jpa-auditing/) | `Spring`, `JPA` |
+| 53 | [JPA 의 등장배경과 SQL 중심적인 개발의 문제점](https://haon.blog/spring/sql-problem/) | `Spring`, `JPA` |
+| 52 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://haon.blog/java/oop-principle/) | `Spring`, `객체지향` |
+| 51 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://haon.blog/test/jacoco/) | `Spring`, `테스트` |
 | 50 | [코드 커버리지(Code Coverage) 에 대하여](https://haon.blog/test/code-coverage/) | `Spring`, `테스트` |
 | 49 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://haon.blog/test/isolated-active/) | `Spring`, `테스트` |
 | 48 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 - 이론편](https://haon.blog/test/isolated-theory/) | `Spring`, `테스트` |
