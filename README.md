@@ -209,25 +209,25 @@
 | 23 | [예외처리](https://velog.io/@msung99/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) | JAVA |
 | 22 | [Collections - List, Map](https://velog.io/@msung99/Collections-List-Map) | JAVA |
 | 21 | [문자열 클래스](https://velog.io/@msung99/%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
-| 20 | [람다식](https://velog.io/@msung99/%EB%9E%8C%EB%8B%A4%EC%8B%9D-af4gzzwa) | JAVA |
-|  19| [추상 클래스(Abstract Class)](https://velog.io/@msung99/%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4Abstract-Class) | JAVA |
-| 18 | [인터페이스](https://velog.io/@msung99/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) | JAVA |
-|  17| [내부(inner) 클래스와 익명 클래스](https://velog.io/@msung99/%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
-|  16| [상속 특징(3) - Object, super 클래스](https://velog.io/@msung99/%EC%83%81%EC%86%8D-%ED%8A%B9%EC%A7%953-Object-super-%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
-| 15 | [상속 특징(2) - 클래스 자료형](https://velog.io/@msung99/%EC%83%81%EC%86%8D-%ED%8A%B9%EC%A7%952-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%9E%90%EB%A3%8C%ED%98%95) | JAVA |
-| 14 | [상속 특징(1) - 메소드 오버라이드](https://velog.io/@msung99/%EC%83%81%EC%86%8D-%ED%8A%B9%EC%A7%951-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C) | JAVA |
-| 13 | [상속](https://velog.io/@msung99/%EC%83%81%EC%86%8D) | JAVA |
-| 12 | [객체와 메모리](https://velog.io/@msung99/%EA%B0%9D%EC%B2%B4%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC) | JAVA |
-| 11 | [클래스 메소드](https://velog.io/@msung99/%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A9%94%EC%86%8C%EB%93%9C) | JAVA |
+| 20 | [Spring IoC Container 과 스프링 빈(Spring Bean)](https://haon.blog/spring/bean-and-ioc/) | `Spring` |
+| 19 | [POJO (Plain Old Java Object) 를 왜 지향해야 하는가?](https://haon.blog/java/pojo/) | `JAVA` |
+| 18 | [스프링 컨테이너의 제어의 역전(IoC) 과 의존성 주입(DI)](https://haon.blog/spring/loc/) | `Spring`, `디자인패턴` |
+| 17 | [내부(inner) 클래스와 익명 클래스](https://velog.io/@msung99/%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
+| 16 | [스프링의 독립적인 계층화 아키텍처 (Layered Architecture)](https://haon.blog/spring/layered-architecture/) | `Spring`, `디자인패턴` |
+| 15 | [자바의 레퍼 클래스 (Wrapper Class)](https://haon.blog/haon/java/wrapper-class/) | `JAVA` |
+| 14 | [DAO 와 Repository 패턴, 차이점은 무엇인가 🤷](https://haon.blog/spring/dao-repository/) | `Spring` |
+| 13 | [자바의 toString 메소드를 올바르게 활용하는 방법에 대하여](https://haon.blog/haon/java/tostring-guide/) | `JAVA`, `tostring` |
+| 12 | [자바의 멤버 클래스는 되도록 static을 붙여서 정적 멤버 클래스로 만들어라](https://haon.blog/haon/java/static-member-class/) | `JAVA` |
+| 11 | [테스트 더블 (Test Double) 로 Mocking 하기](https://haon.blog/test/double/) | `테스트` |
 | 10 | [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 (feat. 싱글톤)](https://haon.blog/haon/java/object-injection/) | `JAVA`, `싱글톤` |
 | 9 | [혼란스러운 단위, 통합, 인수, 시스템 테스트. 명확한 테스트 격리 수준 정리 😵‍💫](https://haon.blog/test/type/) | `테스트` |
 | 8 | [간략히 적어보는 카카오테크 1주차 생활 회고](https://haon.blog/%ED%9A%8C%EA%B3%A0/first-week/) | `회고` |
 | 7 | [자바 String, StringBuilder, StringBuffer 개념](https://haon.blog/haon/java/string-builder/) | `JAVA` |
 | 6 | [자바의 Comparator 과 Comparable 인터페이스](https://haon.blog/haon/java/comparable-comparator/) | `JAVA`, `Comparator`, `Comparable` |
 | 5 | [VO(Value Object) 란 무엇이고, 캡슐화를 통해 얻는 이점은 무엇인가?](https://haon.blog/haon/java/vo/) | `JAVA`, `VO` |
-| 4 | [[자바의 스트림(Stream) 이란 무엇이고, 어떻게 사용하는걸까?](https://haon.blog/haon/java/stream/) | `JAVA`, `stream` |
+| 4 | [자바의 스트림(Stream) 이란 무엇이고, 어떻게 사용하는걸까?](https://haon.blog/haon/java/stream/) | `JAVA`, `stream` |
 | 3 | [자바 컬렉션(Collection) 의 개념과 종류](https://haon.blog/haon/java/collection/) | `JAVA` |
-| 2 | [[프로그래밍을 공부하며 능동적인 성장을 위한 학습방법](https://haon.blog/%ED%9A%8C%EA%B3%A0/growth-learning/) | `공부법`, `회고`, `메타인지` |
+| 2 | [프로그래밍을 공부하며 능동적인 성장을 위한 학습방법](https://haon.blog/%ED%9A%8C%EA%B3%A0/growth-learning/) | `공부법`, `회고`, `메타인지` |
 | 1 | [2024년 카카오테크 코스 최종 합격까지, 상반기 회고](https://haon.blog/%ED%9A%8C%EA%B3%A0/2024-with-kakaotech/) | `회고`, `카카오테크` |
 
 
