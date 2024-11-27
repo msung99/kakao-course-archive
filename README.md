@@ -199,16 +199,16 @@
 | 33 | [원형 링크드리스트 (Circular Linked List)](https://velog.io/@msung99/%EC%9B%90%ED%98%95-%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-Circular-Linked-List) | 알고리즘 |
 | 32 |  [링크드 리스트, STL list](https://velog.io/@msung99/%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8) | 알고리즘 |
 | 31 | [배열 & STL vector](https://velog.io/@msung99/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4-vector) | 알고리즘 |
-| 30 | [[Git] 브렌치(Branch)란 무엇인가? / Merge 과 Conflict](https://velog.io/@msung99/%EB%B8%8C%EB%A0%8C%EC%B9%98Branch%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-Merge-%EA%B3%BC-Conflict) | Git |
-| 29 | [[Git] fetch 와 Pull 의 차이점은?](https://velog.io/@msung99/push-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EA%B9%83%ED%94%8C%EB%A1%9C%EC%9A%B0-pull) | Git |
-| 28 | [[Git] SSH 보안방식으로 Remote 에 접근하기](https://velog.io/@msung99/git-commit-help) | Git |
-| 27 | [Git WorkFlow(파일의 status 관리)](https://velog.io/@msung99/git-stage-area) | Git |
-| 26 | [[Git] 버전(Version) 과 히스토리란](https://velog.io/@msung99/git-commit-git-config) | Git |
-| 25 | [[Git] Local,Remote Repository 이론, Stash 영역](https://velog.io/@msung99/git-add) | Git |
-| 24 | [입력과 출력](https://velog.io/@msung99/%EC%9E%85%EB%A0%A5%EA%B3%BC-%EC%B6%9C%EB%A0%A5) | JAVA |
-| 23 | [예외처리](https://velog.io/@msung99/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) | JAVA |
-| 22 | [Collections - List, Map](https://velog.io/@msung99/Collections-List-Map) | JAVA |
-| 21 | [문자열 클래스](https://velog.io/@msung99/%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) | JAVA |
+| 30 | [자바와 커맨드 패턴(Command Pattern)](https://haon.blog/haon/java/command-pattern/) | `JAVA`, `디자인패턴` |
+| 29 | [스프링에서 Argument Resolver 기반 커스텀 어노테이션으로 인증 책임을 분리해보자! (vs Interceptor)](https://haon.blog/spring/argument-resolver/) | `스프링`, `ArgumentResolver` |
+| 28 | [팩토리 메소드 패턴 (Factory Method Pattern)](https://haon.blog/haon/java/factory-method-pattern/) | `JAVA`, `디자인패턴` |
+| 27 | [전략 패턴(Strategy Pattern)](https://haon.blog/java/strategy-pattern/) | `JAVA`, `디자인패턴` |
+| 27 | [싱글톤(SingleTon) 패턴 구현방법 6가지, Bill Pugh Solution](https://haon.blog/java/singleton/) | `JAVA`, `디자인패턴` |
+| 25 | [DTO(Data Transfer Object) 의 올바른 사용 방식에 대해]([https://velog.io/@msung99/git-add](https://haon.blog/java/dto/)) | `JAVA`, `DTO` |
+| 24 | [REST(Representational State Transfer) API 설계원칙](https://haon.blog/network/rest-api/) | `HTTP` |
+| 23 | [데이터베이스 트랜잭션(Transaction)](https://haon.blog/database/transaction/) | `데이터베이스`, `트랜잭션` |
+| 22 | [대역을 활용한 외부 상황 테스트, Mock 객체의 활용을 어떻게 해야하는데? 🤷‍]([https://velog.io/@msung99/Collections-List-Map](https://haon.blog/haon/tdd/mock/) | `TDD`, `Mockito` |
+| 21 | [Mocktio 란 무엇이고, 어떻게 사용하는걸까?](https://haon.blog/haon/tdd/mockito/) | `TDD`, `테스트`, `Mockito` |
 | 20 | [Spring IoC Container 과 스프링 빈(Spring Bean)](https://haon.blog/spring/bean-and-ioc/) | `Spring` |
 | 19 | [POJO (Plain Old Java Object) 를 왜 지향해야 하는가?](https://haon.blog/java/pojo/) | `JAVA` |
 | 18 | [스프링 컨테이너의 제어의 역전(IoC) 과 의존성 주입(DI)](https://haon.blog/spring/loc/) | `Spring`, `디자인패턴` |
