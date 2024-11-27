@@ -189,16 +189,16 @@
 | 43 | [백트래킹](https://velog.io/@msung99/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9) | 알고리즘 |
 |  42| [재귀](https://velog.io/@msung99/%EC%9E%AC%EA%B7%80) | 알고리즘 |
 | 41 | [DFS (다차원 배열)](https://velog.io/@msung99/DFS) | 알고리즘 |
-|  40 | [BFS (다차원 배열)](https://velog.io/@msung99/BFS) | 알고리즘 |
-|  39| [그래프, BFS, DFS](https://velog.io/@msung99/%EA%B7%B8%EB%9E%98%ED%94%84) | 알고리즘 |
-|  38| [스택의 활용(수식의 괄호쌍)](https://velog.io/@msung99/%EC%8A%A4%ED%83%9D%EC%9D%98-%ED%99%9C%EC%9A%A9%EC%88%98%EC%8B%9D%EC%9D%98-%EA%B4%84%ED%98%B8%EC%8C%8D) | 알고리즘 |
-|  37| [덱, STL deque](https://velog.io/@msung99/%EB%8D%B1-STL-deque) | 알고리즘 |
-|  36| [큐, STL queue](https://velog.io/@msung99/%ED%81%90) | 알고리즘 |
-| 35 | [스택, STL stack](https://velog.io/@msung99/%EC%8A%A4%ED%83%9D-STL-stack) |  |
-| 34 | [STL list - 상세이론](https://velog.io/@msung99/STL-list-%EC%83%81%EC%84%B8%EC%9D%B4%EB%A1%A0) | 알고리즘 |
-| 33 | [원형 링크드리스트 (Circular Linked List)](https://velog.io/@msung99/%EC%9B%90%ED%98%95-%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-Circular-Linked-List) | 알고리즘 |
-| 32 |  [링크드 리스트, STL list](https://velog.io/@msung99/%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8) | 알고리즘 |
-| 31 | [배열 & STL vector](https://velog.io/@msung99/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4-vector) | 알고리즘 |
+| 40 | [AWS EC2, Nginx 를 활용하여 스프링 애플리케이션 배포하기](https://haon.blog/haon/infra/deploy/ec2+nginx/) | `배포`, `Nginx` |
+| 39 | [Nginx 기반 HTTPS 프로토콜을 적용하여 서비스 배포하기](https://haon.blog/haon/infra/nginx/https/) | `Nginx`, `HTTPS`, `Certbot` |
+| 38 | [RefeshToken 은 AccessToken 의 문제점을 해결하기위해 등장했다](https://haon.blog/spring/access-refresh-token/) | `HTTP`, `인증/인가` |
+| 37 | [제 4장. 결과를 전달하는 HTTP 상태 코드](https://haon.blog/network/http-basic/four/) | `HTTP` |
+| 36 | [TDD(테스트 주도 개발) 와 BDD(행위 주도 개발)](https://haon.blog/test/tdd-bdd/) | `테스트`, `BDD`, `TDD` |
+| 35 | [Git 브랜치 전략 (Git Flow, Github Flow)](https://haon.blog/github/git-flow/) | `Git` |
+| 34 | [제 3장. HTTP 정보는 HTTP 메시지에 있다](https://haon.blog/network/http-basic/three/) | `HTTP` |
+| 33 | [제 2장. 간단한 프로토콜 HTTP](https://haon.blog/network/http-basic/two/) | `HTTP` |
+| 32 | [제 1장. 웹과 HTTP 는 이렇게 태어났고 성장했다.](https://haon.blog/network/http-basic/one/) | `HTTP` |
+| 31 | [생성자 대신 정적 팩터리 메서드 사용을 고려하라](https://haon.blog/haon/java/static-factory-method/) | `JAVA` |
 | 30 | [자바와 커맨드 패턴(Command Pattern)](https://haon.blog/haon/java/command-pattern/) | `JAVA`, `디자인패턴` |
 | 29 | [스프링에서 Argument Resolver 기반 커스텀 어노테이션으로 인증 책임을 분리해보자! (vs Interceptor)](https://haon.blog/spring/argument-resolver/) | `스프링`, `ArgumentResolver` |
 | 28 | [팩토리 메소드 패턴 (Factory Method Pattern)](https://haon.blog/haon/java/factory-method-pattern/) | `JAVA`, `디자인패턴` |
