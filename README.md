@@ -19,8 +19,8 @@
 | Spring-MVC-3 | [PR-Review16](https://github.com/Japring-Study/spring-learning-test/pull/16) |
 | Spring-MVC-4 | [PR-Review17](https://github.com/Japring-Study/spring-learning-test/pull/15) |
 | Spring-JDBC-1 | [PR-Review37](https://github.com/Japring-Study/spring-learning-test/pull/37) |
-| Spring-CORE-1 | [PR-Review38](https://github.com/Japring-Study/spring-learning-test/pull/38) |
-| Spring-CORE-2 | [PR-Review39](https://github.com/Japring-Study/spring-learning-test/pull/39) |
+| Spring-Core-1 | [PR-Review38](https://github.com/Japring-Study/spring-learning-test/pull/38) |
+| Spring-Core-2 | [PR-Review39](https://github.com/Japring-Study/spring-learning-test/pull/39) |
 | Spring-Data-JPA-1 | [PR-Review55](https://github.com/Japring-Study/spring-learning-test/pull/55) |
 | Spring-Data-JPA-2 | [PR-Review56](https://github.com/Japring-Study/spring-learning-test/pull/56) |
 
