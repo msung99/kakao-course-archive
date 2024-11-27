@@ -204,10 +204,10 @@
 | 28 | [팩토리 메소드 패턴 (Factory Method Pattern)](https://haon.blog/haon/java/factory-method-pattern/) | `JAVA`, `디자인패턴` |
 | 27 | [전략 패턴(Strategy Pattern)](https://haon.blog/java/strategy-pattern/) | `JAVA`, `디자인패턴` |
 | 27 | [싱글톤(SingleTon) 패턴 구현방법 6가지, Bill Pugh Solution](https://haon.blog/java/singleton/) | `JAVA`, `디자인패턴` |
-| 25 | [DTO(Data Transfer Object) 의 올바른 사용 방식에 대해]([https://velog.io/@msung99/git-add](https://haon.blog/java/dto/)) | `JAVA`, `DTO` |
+| 25 | [DTO(Data Transfer Object) 의 올바른 사용 방식에 대해](https://haon.blog/java/dto/) | `JAVA`, `DTO` |
 | 24 | [REST(Representational State Transfer) API 설계원칙](https://haon.blog/network/rest-api/) | `HTTP` |
 | 23 | [데이터베이스 트랜잭션(Transaction)](https://haon.blog/database/transaction/) | `데이터베이스`, `트랜잭션` |
-| 22 | [대역을 활용한 외부 상황 테스트, Mock 객체의 활용을 어떻게 해야하는데? 🤷‍]([https://velog.io/@msung99/Collections-List-Map](https://haon.blog/haon/tdd/mock/) | `TDD`, `Mockito` |
+| 22 | [대역을 활용한 외부 상황 테스트, Mock 객체의 활용을 어떻게 해야하는데? 🤷‍](https://haon.blog/haon/tdd/mock/) | `TDD`, `Mockito` |
 | 21 | [Mocktio 란 무엇이고, 어떻게 사용하는걸까?](https://haon.blog/haon/tdd/mockito/) | `TDD`, `테스트`, `Mockito` |
 | 20 | [Spring IoC Container 과 스프링 빈(Spring Bean)](https://haon.blog/spring/bean-and-ioc/) | `Spring` |
 | 19 | [POJO (Plain Old Java Object) 를 왜 지향해야 하는가?](https://haon.blog/java/pojo/) | `JAVA` |
