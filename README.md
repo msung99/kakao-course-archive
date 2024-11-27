@@ -159,20 +159,20 @@
 | 73 | [Ubuntu 18.04 APM 서버환경 구축 (수동 설치)](https://velog.io/@msung99/APM-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%EC%88%98%EB%8F%99-%EC%84%A4%EC%B9%98) | 리눅스 |
 | 72 | [리눅스 파일구조 및 vim 편집기, Ubuntu란](https://velog.io/@msung99/Server1-1) | 리눅스 |
 | 71 | [WS(Web Server), WAS 란?](https://velog.io/@msung99/Server-1%EC%A3%BC%EC%B0%A8) | server |
-| 70 | [FOSS 와 GNU Project. 저작권과 라이센스의 역사](https://velog.io/@msung99/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4sw-1%EC%A3%BC%EC%B0%A8) | 저작권 및 라이센스 |
-| 69 | [BFS](https://velog.io/@msung99/BFS-w8m1sdt4) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 68 | [데크 (deque)](https://velog.io/@msung99/%EB%8D%B0%ED%81%AC-deque) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 67 | [큐(queue)](https://velog.io/@msung99/%ED%81%90queue) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 66 | [스택 - 수식의 괄호쌍](https://velog.io/@msung99/%EC%8A%A4%ED%83%9D-%EC%88%98%EC%8B%9D%EC%9D%98-%EA%B4%84%ED%98%B8%EC%8C%8D) | 코딩테스트 스터디 발표자료, 알고리즘 |
-| 65 | [링크드리스트](https://velog.io/@msung99/%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-8s8t5xb6) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 64 | [🥈[멋쟁이사자처럼 중앙해커톤 수상] 덕꾸(Duckku) 프로젝트🥈](https://velog.io/@msung99/%EC%B2%AB-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0%EB%A1%9D) | 회고록, 해커톤 |
-| 63 | [우선순위 큐(priority queue)](https://velog.io/@msung99/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90priority-queue) | 코딩테스트 스터디 진행자료, 알고리즘 |
-| 62 | [배열 & vector](https://velog.io/@msung99/%EB%B0%B0%EC%97%B4-vector) |  코딩테스트 스터디 진행자료, 알고리즘 |
-| 61 | [투 포인터](https://velog.io/@msung99/%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0) | 코딩테스트 스터디 진행자료, 알고리즘 |
+| 70 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://haon.blog/spring/local-cache-custom/) | `캐시`, `스프링` |
+| 69 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://haon.blog/database/pessmistic-lock/) | `Spring`, `동시성` |
+| 68 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://haon.blog/network/high-availability-architecture/) | `고가용성`, `아키텍처` |
+| 67 | [고가용성과 확장성을 위한 데이터베이스 레플리케이션(DB Replication)](https://haon.blog/database/replication-theory/) | `고가용성`, `아키텍처`, `레플리케이션` |
+| 66 | [고가용성과 확장성을 위한 데이터베이스 클러스터링(DB Clustering)](https://haon.blog/database/clustering/) | `고가용성`, `아키텍처`, `클러스터링` |
+| 65 | [JPA 낙관적 락과 비관적 락으로 엔티티에 대한 동시성 이슈 해결하기](https://haon.blog/database/optimistic-pessimistic-lock/) | `Spring`, `동시성` |
+| 64 | [MySQL 8.0 공유 락(Shared Lock) 과 배타 락(Exclusive Lock)](https://haon.blog/database/shared-exclusive-lock/) | `Spring`, `동시성`, `MySQL` |
+| 63 | [경쟁 상태의 2가지 패턴 - Read-Modify-Write, Check-Then-Act](https://haon.blog/database/race-condition-pattern/) | `Spring`, `동시성` |
+| 62 | [자바 불변 클래스](https://haon.blog/haon/java/immutable-class/) | `JAVA` |
+| 61 | [데이터베이스 인덱스 B+ Tree 구조는 왜 조회 쿼리 성능이 빠를까?](https://haon.blog/database/index-basic/) | `데이터베이스`, `인덱스` |
 | 60 | [Redis 를 활용하여 Refresh 토큰 접근속도 개선하기](https://haon.blog/haon/redis/refresh-token/) | `Redis`, `인증/인가` |
 | 59 | [자바 객체의 동일성(identity)와 동등성(equality)](https://haon.blog/haon/java/equality-identity/) | `JAVA`, `동일성` |
 | 58 | [자바의 EnumMap은 무엇이고, 왜 HashMap 보다 성능이 더 빠른가?](https://haon.blog/haon/java/enum-map/) | `JAVA`, `ENUM`, `HashMap` |
-| 57 | 자바 Enum 타입, 그거 어떻게 사용하는건데 🤷‍♂️](https://haon.blog/haon/java/enum/) | `JAVA` |
+| 57 | [자바 Enum 타입, 그거 어떻게 사용하는건데 🤷‍♂️](https://haon.blog/haon/java/enum/) | `JAVA` |
 | 56 | [JDBC 에서 데이터베이스 커넥션 풀 다루기 (feat. JDBC Driver, DataSource, HikariCP)](https://haon.blog/database/jdbc-connection-pool/) | `Spring`, `DBCP` |
 | 55 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://haon.blog/database/hikaricp-theory/) | `Spring`, `DBCP` |
 | 54 | [JPA Auditing 으로 엔티티의 생성/수정 시간 자동 추적하기](https://haon.blog/spring/jpa-auditing/) | `Spring`, `JPA` |
