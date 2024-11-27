@@ -148,17 +148,17 @@
 | 84 | [MySQL(DCL) : GRANT, REVOKE](https://velog.io/@msung99/MySQLDCL) | MySQL |
 | 83 | [MySQL(DML) : SELECT, INSERT, UPDATE, DELETE](https://velog.io/@msung99/MySQL-DML) | MySQL  |
 | 82 | [MySQL(DDL) : CREATE, ALTER, TRUNCATE, DROP](https://velog.io/@msung99/MySQL-DDL-DML-DCL) | MySQL  |
-| 81 | [AWS RDS 에서 MySQL Query 조작하기](https://velog.io/@msung99/Server-5%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EC%8A%B5) | MySQL, AWS |
-| 80 | [스키마(Schema) 란?](https://velog.io/@msung99/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%8A%A4%ED%82%A4%EB%A7%88Schema) | 데이터베이스 |
-| 79 | [데이터베이스의 Key의 구분과 속성](https://velog.io/@msung99/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-Key%EC%9D%98-%EA%B5%AC%EB%B6%84%EA%B3%BC-%EC%86%8D%EC%84%B1) | 데이터베이스 |
-| 78 | [AWS RDS - 도메인과 IP 연동 https 적용, MySQL 외부접속](https://velog.io/@msung99/AWS-EC2-%EB%8F%84%EB%A9%94%EC%9D%B8%EA%B3%BC-IP-%EC%97%B0%EB%8F%99-https-%EC%A0%81%EC%9A%A9-MySQL-%EC%99%B8%EB%B6%80%EC%A0%91%EC%86%8D) | MySQL, AWS |
-| 77 | [AWS EC2 서버구축 (인스턴스 생성 및 putty 명령창 실행)](https://velog.io/@msung99/AWS-EC2-%EC%84%9C%EB%B2%84%EA%B5%AC%EC%B6%95) | AWS, 배포, Cloud |
-| 76 | [AWS, AWS EC2, Cloud Computing](https://velog.io/@msung99/AWS-AWS-EC2-Cloud) | AWS, Cloud, server|
-|  75 | [이분탐색 (Binary Search)](https://velog.io/@msung99/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89) | 알고리즘 |
-| 74 | [포트포워딩과 IP, 네트워크 장비와 통신 프로토콜](https://velog.io/@msung99/Server2-3) | 네트워크  |
-| 73 | [Ubuntu 18.04 APM 서버환경 구축 (수동 설치)](https://velog.io/@msung99/APM-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%EC%88%98%EB%8F%99-%EC%84%A4%EC%B9%98) | 리눅스 |
-| 72 | [리눅스 파일구조 및 vim 편집기, Ubuntu란](https://velog.io/@msung99/Server1-1) | 리눅스 |
-| 71 | [WS(Web Server), WAS 란?](https://velog.io/@msung99/Server-1%EC%A3%BC%EC%B0%A8) | server |
+| 81 | [트랜잭션의 전파(propagation) 속성과 추상화 인터페이스](https://haon.blog/haon/database/propagation/) | `데이터베이스`, `트랜잭션` |
+| 80 | [서블릿 컨테이너의 프론트 컨트롤러 등장 배경, 공통 요청 처리방식](https://haon.blog/haon/spring/front-controller/) | `서블릿`, `톰켓` |
+| 79 | [트랜잭션내에 커넥션을 점유하는 외부 API 요청 분리를 통한 TPS 개선기 (feat. JPA OSIV)](https://haon.blog/network/transaction-separate-osiv-issue/) | `스프링`, `HikariCP`, `JPA`, `OSIV` |
+| 78 | [Jenkins 와 Nginx 를 활용한 Blue/Green 배포 환경 구축하기](https://haon.blog/haon/infra/ci-cd/jenkins-nginx-blue-green/) | `Jenkins`, `CI/CD`, `Nginx`, `블루그린` |
+| 77 | [Jenkins 의 파이프라인 기반 배포 자동화 환경 구축 구축하기](https://haon.blog/haon/infra/ci-cd/jenkins-pipeline/) | `Jenkins`, `CI/CD` |
+| 76 | [MySQL 네임드 락으로 분산 환경에서의 동시성 이슈를 해결해보자!](https://haon.blog/database/named-lock/) | `MySQL`, `네임드락`, `동시성` |
+| 75 | [무중단 배포 아키텍처의 다양한 배포전략 (Blue/Green, Rolling, Canary)](https://haon.blog/haon/infra/ci-cd/%EB%AC%B4%EC%A4%91%EB%8B%A8%EB%B0%B0%ED%8F%AC/) | `무중단배포`, `블루그린`, `롤링`, `카나리` |
+| 74 | [Slf4j MDC(Mapped Diagnostic Context) 로 요청별로 식별 가능한 맥락 남기기](https://haon.blog/spring/slf4j-mapped-diagnotics-context/) | `Spring`, `로깅`  |
+| 73 | [DB 레플리케이션 환경에서 DataSource 라우팅이 안되는 이슈 해결기 😤 (feat. JPA OSIV)](https://haon.blog/database/replication-osiv-issue/) | `Spring`, `OSIV`, `JPA` |
+| 72 | [MySQL 8.0 레플리케이션과 스프링부트 DataSource 라우팅을 통한 부하 분산](https://haon.blog/database/replication-mysql-springboot/) | `Spring`, `MySQL` |
+| 71 | [서버 성능 최적화를 위한 성능 테스트(Performance Test) 환경 구축](https://haon.blog/network/performance-test/) | `스프링`, `성능개선` |
 | 70 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://haon.blog/spring/local-cache-custom/) | `캐시`, `스프링` |
 | 69 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://haon.blog/database/pessmistic-lock/) | `Spring`, `동시성` |
 | 68 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://haon.blog/network/high-availability-architecture/) | `고가용성`, `아키텍처` |
