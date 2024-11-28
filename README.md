@@ -110,9 +110,8 @@ https://github.com/kakaotech-25/algorithm-study
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
-| 109 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
-| 108 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
-| 107 | [HTTP Status Code : 3xx, Redirection 과 PRG 패턴](https://velog.io/@msung99/HTTP-Status-Code-3xx-Redirection-%EA%B3%BC-PRG-%ED%8C%A8%ED%84%B4) | HTTP |
+| 108 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
+| 107 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
 | 106 | [어노테이션 기반 DI 컨테이너 프레임워크 구현하기](https://haon.blog/haon/spring/di-container-implementation/) | `스프링`, `DI` |
 | 105 | [지금부터 내가 가져야 할 학습 방향성과 태도](https://haon.blog/%ED%9A%8C%EA%B3%A0/attitude/) | `회고` |
 | 104 | [데이터베이스 분산 스토리지를 위한 파티셔닝과 샤딩](https://haon.blog/database/partitioning-sharding/) | `데이터베이스`, `파티셔닝`, `샤딩` |
