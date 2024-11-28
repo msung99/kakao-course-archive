@@ -31,7 +31,9 @@
 | 13 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://kakaotech-harmony.netlify.app/backend/oop/) | `Spring`, `객체지향` |
 | 14 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://kakaotech-harmony.netlify.app/backend/jacoco/) | `Spring`, `테스트` |
 | 15 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://kakaotech-harmony.netlify.app/backend/isolated-active/) | `Spring`, `테스트` |
-| 16 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
+| 16 | [하모니 팀의 협업 프로세스를 소개합니다 🌈](https://kakaotech-harmony.netlify.app/project/git-flow-strategy/) | `Git`, `Git-Flow` |
+| 17 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
+| 18 | [스프링에서 Argument Resolver 기반 어노테이션으로 인증 책임을 분리해보자!](https://kakaotech-harmony.netlify.app/backend/argument-resolver/) | `스프링`, `Argument Resolver` |
 
 ## 🎤 Tech Talk 기술 발표 세미나 
 
