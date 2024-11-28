@@ -12,7 +12,7 @@
 - 팀원 서로가 태스크를 진행하며 학습하거나 경험한 내용을 글로 공유하는 문화를 만들기 위해, 팀 기술 블로그를 주도적으로 운영
 - 직접 개발한 [Gatsby 블로그 오픈소스 프로젝트](https://github.com/msung99/Gatsby-Starter-Haon)를 사용하여 [팀 기술 블로그](https://github.com/kakaotech-25/harmony-tech-blog)를 개설
 
-### ✒️ 팀 기술 블로그 백엔드 트러블슈팅 & 프로젝트 관련 학습 내용 정리
+#### ✒️ 팀 기술 블로그 백엔드 트러블슈팅 & 프로젝트 관련 학습 내용 정리
 
 백엔드 시리즈 : https://kakaotech-harmony.netlify.app/series/backend-trouble-shooting/
 
