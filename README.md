@@ -4,15 +4,17 @@
 
 ## 🎯 현장 중심의 깊이있는 협업 프로젝트 
 
-> - **깃허브 레포지토리** **:** **https://github.com/kakaotech-25/moheng**
+> - **프로젝트 레포지토리** **:** **https://github.com/kakaotech-25/moheng**
 > - **하모니 팀 기술 블로그** **:** **https://kakaotech-harmony.netlify.app**
 
-- 프로젝트를 만드는 것에 끝나지 않고, 1,2,3차 데모데이 마감기한을 준수하며 레거시 코드를 점진적으로 리팩터링하는 경험을 쌓는다.
+- 1,2,3차 데모데이 마감기한을 준수하며 기존 레거시 코드를 점진적으로 리팩토링 & 안정적으로 유지.보수하는 경험을 쌓는다.
 - 스프린트 단위로 협업 진행, 플래닝 포커를 통해 태스크 분배 및 KPT 감정 회고 진행
 - 팀원 서로가 태스크를 진행하며 학습하거나 경험한 내용을 글로 공유하며 이해도를 높이는 문화를 만들기 위해, 팀 기술 블로그를 주도적으로 운영
 - 직접 개발한 [Gatsby 블로그 오픈소스 프로젝트](https://github.com/msung99/Gatsby-Starter-Haon)를 사용하여 [팀 기술 블로그](https://github.com/kakaotech-25/harmony-tech-blog)를 개설
+- 👥 팀원 구성 : 하온, 리안, 레오, 엘라, 도로시, 민디
 
-#### ✒️ 팀 기술 블로그 백엔드 트러블슈팅 & 프로젝트 관련 학습 내용 정리
+
+### ✒️ 팀 기술 블로그 백엔드 트러블슈팅 & 프로젝트 관련 학습 내용 정리
 
 백엔드 시리즈 : https://kakaotech-harmony.netlify.app/series/backend-trouble-shooting/
 
@@ -54,6 +56,7 @@
 |:---|:---|
 | 1 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |
 | 2 | [✒️ 카카오테크 부트캠프 글쓰기 : 우리는 함께 자랄 수 있을까]() |
+| 3 | [✒️ 카카오테크 부트캠프 글쓰기 : 앞으로 어떤 프로그래머가 될 것인가?]() |
 
 ## 🌱 TDD, OOP, Web/DB 기초
 
@@ -111,10 +114,11 @@ https://github.com/kakaotech-25/algorithm-study
 
 ## 🖋 블로깅
 
-> 💡 교육 과정 시작일(2024.07.01)부터 현재(2024.11.28 기준)까지 약 5달간 총 110개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
+💡 교육 과정 시작일(2024.07.01)부터 현재(2024.11.29 기준)까지 약 5달간 총 110개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
+| 109 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |  `회고`, `카카오`, `카테부` |
 | 108 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
 | 107 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
 | 106 | [어노테이션 기반 DI 컨테이너 프레임워크 구현하기](https://haon.blog/haon/spring/di-container-implementation/) | `스프링`, `DI` |
