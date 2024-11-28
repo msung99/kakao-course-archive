@@ -14,6 +14,8 @@
 
 #### ✒️ 팀 기술 블로그 백엔드 트러블슈팅 & 프로젝트 관련 학습 내용 정리
 
+백엔드 시리즈 : https://kakaotech-harmony.netlify.app/series/backend-trouble-shooting/
+
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
 | 1 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://kakaotech-harmony.netlify.app/backend/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
