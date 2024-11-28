@@ -17,21 +17,20 @@
 |:---|:---|:---|
 | 1 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://kakaotech-harmony.netlify.app/backend/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
 | 2 | [스프링 페이지네이션에서 발생한 Latency 의 원인과 커버링 인덱스 생성을 통한 문제 해결기](https://kakaotech-harmony.netlify.app/backend/pagnation-latency-db-covering-index/) | `Spring`, `MySQL`, `인덱스` |
-| 3 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://kakaotech-harmony.netlify.app/backend/index-range-scan-improvement/) |`Spring`, `MySQL`, `인덱스` |
-| 4 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://kakaotech-harmony.netlify.app/backend/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
-| 5 | [MySQL 8.0 레플리케이션 동작 과정과 아키텍처 구성 방식](https://kakaotech-harmony.netlify.app/backend/replication-architecture/) | `데이터베이스`, `레플리케이션`, `MySQL` |
-| 6 | [트랜잭션내에 커넥션을 점유하는 외부 API 요청 분리를 통한 TPS 개선기 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/transaction-separate-osiv-issue/) | `스프링`, `HikariCP`, `JPA`, `OSIV` |
-| 7 | [DB 레플리케이션 환경에서 DataSource 라우팅이 안되는 이슈 해결기 😤 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/replication-osiv-issue/) | `Spring`, `OSIV`, `JPA` |
-| 8 | [서버 성능 최적화를 위한 성능 테스트(Performance Test) 환경 구축](https://kakaotech-harmony.netlify.app/backend/performance-test/) | `스프링`, `성능개선` |
-| 9 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://kakaotech-harmony.netlify.app/backend/local-cache-custom/) | `캐시`, `스프링` |
-| 10 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://kakaotech-harmony.netlify.app/backend/pessmistic-lock/) | `Spring`, `동시성` |
-| 11 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://kakaotech-harmony.netlify.app/backend/high-availability-architecture/) | `고가용성`, `아키텍처` |
-| 12 | [JPA 낙관적 락과 비관적 락으로 엔티티에 대한 동시성 이슈 해결하기](https://kakaotech-harmony.netlify.app/backend/optimistic-pessimistic-lock/) | `Spring`, `동시성` |
-| 13 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://kakaotech-harmony.netlify.app/backend/hikaricp-theory/) | `Spring`, `HikariCP` |
-| 14 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://kakaotech-harmony.netlify.app/backend/oop/) | `Spring`, `객체지향` |
-| 15 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://kakaotech-harmony.netlify.app/backend/jacoco/) | `Spring`, `테스트` |
-| 16 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://kakaotech-harmony.netlify.app/backend/isolated-active/) | `Spring`, `테스트` |
-| 17 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
+| 3 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://kakaotech-harmony.netlify.app/backend/index-range-scan-improvement/) | `Spring`, `MySQL`, `인덱스` |
+| 4 | [MySQL 8.0 레플리케이션 동작 과정과 아키텍처 구성 방식](https://kakaotech-harmony.netlify.app/backend/replication-architecture/) | `데이터베이스`, `레플리케이션`, `MySQL` |
+| 5 | [트랜잭션내에 커넥션을 점유하는 외부 API 요청 분리를 통한 TPS 개선기 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/transaction-separate-osiv-issue/) | `스프링`, `HikariCP`, `JPA`, `OSIV` |
+| 6 | [DB 레플리케이션 환경에서 DataSource 라우팅이 안되는 이슈 해결기 😤 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/replication-osiv-issue/) | `Spring`, `OSIV`, `JPA` |
+| 7 | [서버 성능 최적화를 위한 성능 테스트(Performance Test) 환경 구축](https://kakaotech-harmony.netlify.app/backend/performance-test/) | `스프링`, `성능개선` |
+| 8 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://kakaotech-harmony.netlify.app/backend/local-cache-custom/) | `캐시`, `스프링` |
+| 9 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://kakaotech-harmony.netlify.app/backend/pessmistic-lock/) | `Spring`, `동시성` |
+| 10 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://kakaotech-harmony.netlify.app/backend/high-availability-architecture/) | `고가용성`, `아키텍처` |
+| 11 | [JPA 낙관적 락과 비관적 락으로 엔티티에 대한 동시성 이슈 해결하기](https://kakaotech-harmony.netlify.app/backend/optimistic-pessimistic-lock/) | `Spring`, `동시성` |
+| 12 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://kakaotech-harmony.netlify.app/backend/hikaricp-theory/) | `Spring`, `HikariCP` |
+| 13 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://kakaotech-harmony.netlify.app/backend/oop/) | `Spring`, `객체지향` |
+| 14 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://kakaotech-harmony.netlify.app/backend/jacoco/) | `Spring`, `테스트` |
+| 15 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://kakaotech-harmony.netlify.app/backend/isolated-active/) | `Spring`, `테스트` |
+| 16 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
 
 ## 🎤 Tech Talk 기술 발표 세미나 
 
@@ -76,7 +75,7 @@
 
 - 현존하는 라이브러리와 프레임워크를 바닥부터 다시 개발해보는 경험을 통한 HTTP, 자바 멀티 쓰레딩, 서블릿, 스프링 프레임워크, JDBC에 대한 깊은 이해
 - DDD를 통해 레거시 코드를 리팩토링 해보는 경험
-- [자바 웹 프로그래밍 Next Step](https://github.com/slipp/jwp-book) 내의 미션 수행, 개인 스터디로 진행
+- [자바 웹 프로그래밍 Next Step](https://github.com/slipp/jwp-book) 내의 미션 수행, `개인 스터디`로 진행
 
 |미션 주제|포스트 정리|
 |:---|:---|
