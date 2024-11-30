@@ -55,7 +55,7 @@
 |순번|포스팅 주제|
 |:---|:---|
 | 1 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |
-| 2 | [✒️ 카카오테크 부트캠프 글쓰기 : 우리는 함께 자랄 수 있을까]() |
+| 2 | [✒️ 팀 프로젝트에서 발견한 진정한 의미의 함께 성장하기](https://haon.blog/%ED%9A%8C%EA%B3%A0/growing-up-together/) |
 | 3 | [✒️ 카카오테크 부트캠프 글쓰기 : 앞으로 어떤 프로그래머가 될 것인가?]() |
 
 ## 🌱 TDD, OOP, Web/DB 기초
@@ -118,16 +118,17 @@ https://github.com/kakaotech-25/algorithm-study
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
-| 109 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |  `회고`, `카카오`, `카테부` |
-| 108 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
-| 107 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
-| 106 | [어노테이션 기반 DI 컨테이너 프레임워크 구현하기](https://haon.blog/haon/spring/di-container-implementation/) | `스프링`, `DI` |
-| 105 | [지금부터 내가 가져야 할 학습 방향성과 태도](https://haon.blog/%ED%9A%8C%EA%B3%A0/attitude/) | `회고` |
-| 104 | [데이터베이스 분산 스토리지를 위한 파티셔닝과 샤딩](https://haon.blog/database/partitioning-sharding/) | `데이터베이스`, `파티셔닝`, `샤딩` |
-| 103 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://haon.blog/spring/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
-| 102 | [스프링 페이지네이션에서 발생한 Latency 의 원인과 커버링 인덱스 생성을 통한 문제 해결기](https://haon.blog/database/pagnation-latency-db-covering-index/) | `Spring`, `MySQL`, `인덱스` |
-| 101 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://haon.blog/database/index-range-scan-improvement/) | `Spring`, `MySQL`, `인덱스` |
-| 100 | [어노테이션 기반 Spring MVC 프레임워크 구현하기](https://haon.blog/haon/spring/annotation-mvc-framework/) | `MVC`, `스프링` |
+| 110 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |  `회고`, `카카오`, `카테부` |
+| 109 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
+| 108 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
+| 107 | [어노테이션 기반 DI 컨테이너 프레임워크 구현하기](https://haon.blog/haon/spring/di-container-implementation/) | `스프링`, `DI` |
+| 106 | [지금부터 내가 가져야 할 학습 방향성과 태도](https://haon.blog/%ED%9A%8C%EA%B3%A0/attitude/) | `회고` |
+| 105 | [데이터베이스 분산 스토리지를 위한 파티셔닝과 샤딩](https://haon.blog/database/partitioning-sharding/) | `데이터베이스`, `파티셔닝`, `샤딩` |
+| 104 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://haon.blog/spring/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
+| 103 | [스프링 페이지네이션에서 발생한 Latency 의 원인과 커버링 인덱스 생성을 통한 문제 해결기](https://haon.blog/database/pagnation-latency-db-covering-index/) | `Spring`, `MySQL`, `인덱스` |
+| 102 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://haon.blog/database/index-range-scan-improvement/) | `Spring`, `MySQL`, `인덱스` |
+| 101 | [어노테이션 기반 Spring MVC 프레임워크 구현하기](https://haon.blog/haon/spring/annotation-mvc-framework/) | `MVC`, `스프링` |
+| 100 | [✒️ 팀 프로젝트에서 발견한 진정한 의미의 함께 성장하기](https://haon.blog/%ED%9A%8C%EA%B3%A0/growing-up-together/) | `회고`, `카테부`, `카카오` |
 | 99 | [HTTPS 의 SSL 기반 암호화, 복호화 통신 과정은 어떻게 이루어질까?](https://haon.blog/haon/network/ssl-tls/) | `네트워크`, `HTTP` |
 | 98 | [AJAX 기반 레거시 MVC 프레임워크 구현하기](https://haon.blog/haon/spring/ajax-based-mvc-impementation/) | `MVC`, `JSP`, `스프링` |
 | 97 | [OSI 7계층의 물리, 데이터 링크 계층(1~2계층)](https://haon.blog/haon/network/physical-data-link/) | `네트뤄크`, `OSI` |
