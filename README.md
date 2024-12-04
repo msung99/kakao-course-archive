@@ -56,7 +56,6 @@
 |:---|:---|
 | 1 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |
 | 2 | [✒️ 팀 프로젝트에서 발견한 진정한 의미의 함께 성장하기](https://haon.blog/%ED%9A%8C%EA%B3%A0/growing-up-together/) |
-| 3 | [✒️ 카카오테크 부트캠프 글쓰기 : 앞으로 어떤 프로그래머가 될 것인가?]() |
 
 ## 🌱 TDD, OOP, Web/DB 기초
 
