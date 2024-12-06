@@ -113,10 +113,11 @@ https://github.com/kakaotech-25/algorithm-study
 
 ## 🖋 블로깅
 
-💡 교육 과정 시작일(2024.07.01)부터 현재(2024.11.29 기준)까지 약 5달간 총 110개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
+💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.06 기준)까지 약 5달간 총 111개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
+| 111 | [Elastic Search 역 인덱스(Inverted Index) 구조 살펴보기](https://haon.blog/database/elastic-search-basic/) | `데이터베이스`, `인덱스` |
 | 110 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |  `회고`, `카카오`, `카테부` |
 | 109 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
 | 108 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 1장. 사용자 수에 따른 규모 확장성](https://haon.blog/virtual-interview/chap01/) | `아키텍처`, `가상면접` |
