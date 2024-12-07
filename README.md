@@ -113,10 +113,13 @@ https://github.com/kakaotech-25/algorithm-study
 
 ## 🖋 블로깅
 
-💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.06 기준)까지 약 5달간 총 111개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
+💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.07 기준)까지 약 5달간 총 114개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
+| 114 | [MySQL 레플리케이션 바이너리 로그 기록 타입 (Row, Statement, Mixed)](https://haon.blog/database/replication-event-format/) | `데이터베이스`, `레플리케이션` |
+| 113 | [글로벌 트랜잭션 (feat. GTID)](https://haon.blog/database/global-transaction/) | `데이터베이스`, `트랜잭션` |
+| 112 | [MySQL 레플리케이션 복제 동기화 방식 (비동기, 반동기)](https://haon.blog/database/replication-synchornization-type/) | `데이터베이스`, `레플리케이션` |
 | 111 | [Elastic Search 역 인덱스(Inverted Index) 구조 살펴보기](https://haon.blog/database/elastic-search-basic/) | `데이터베이스`, `인덱스` |
 | 110 | [✒️ 카카오테크 부트캠프에서 찾아낸 나만의 효과적인 프로그래밍 학습법](https://haon.blog/%ED%9A%8C%EA%B3%A0/effective-study-way/) |  `회고`, `카카오`, `카테부` |
 | 109 | [Grafana, Prometheus, SpringBoot Actuator 기반 모니터링 환경 구축하기](https://haon.blog/haon/infra/monitoring/grafana-prometheus/) |  `Grafana`, `Prometheus`, `모니터링` |
