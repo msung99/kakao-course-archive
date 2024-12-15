@@ -20,24 +20,26 @@
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
-| 1 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://kakaotech-harmony.netlify.app/backend/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
-| 2 | [스프링 페이지네이션에서 발생한 Latency 의 원인과 커버링 인덱스 생성을 통한 문제 해결기](https://kakaotech-harmony.netlify.app/backend/pagnation-latency-db-covering-index/) | `Spring`, `MySQL`, `인덱스` |
-| 3 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://kakaotech-harmony.netlify.app/backend/index-range-scan-improvement/) | `Spring`, `MySQL`, `인덱스` |
-| 4 | [MySQL 8.0 레플리케이션 동작 과정과 아키텍처 구성 방식](https://kakaotech-harmony.netlify.app/backend/replication-architecture/) | `데이터베이스`, `레플리케이션`, `MySQL` |
-| 5 | [트랜잭션내에 커넥션을 점유하는 외부 API 요청 분리를 통한 TPS 개선기 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/transaction-separate-osiv-issue/) | `스프링`, `HikariCP`, `JPA`, `OSIV` |
-| 6 | [DB 레플리케이션 환경에서 DataSource 라우팅이 안되는 이슈 해결기 😤 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/replication-osiv-issue/) | `Spring`, `OSIV`, `JPA` |
-| 7 | [서버 성능 최적화를 위한 성능 테스트(Performance Test) 환경 구축](https://kakaotech-harmony.netlify.app/backend/performance-test/) | `스프링`, `성능개선` |
-| 8 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://kakaotech-harmony.netlify.app/backend/local-cache-custom/) | `캐시`, `스프링` |
-| 9 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://kakaotech-harmony.netlify.app/backend/pessmistic-lock/) | `Spring`, `동시성` |
-| 10 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://kakaotech-harmony.netlify.app/backend/high-availability-architecture/) | `고가용성`, `아키텍처` |
-| 11 | [JPA 낙관적 락과 비관적 락으로 엔티티에 대한 동시성 이슈 해결하기](https://kakaotech-harmony.netlify.app/backend/optimistic-pessimistic-lock/) | `Spring`, `동시성` |
-| 12 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://kakaotech-harmony.netlify.app/backend/hikaricp-theory/) | `Spring`, `HikariCP` |
-| 13 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://kakaotech-harmony.netlify.app/backend/oop/) | `Spring`, `객체지향` |
-| 14 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://kakaotech-harmony.netlify.app/backend/jacoco/) | `Spring`, `테스트` |
-| 15 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://kakaotech-harmony.netlify.app/backend/isolated-active/) | `Spring`, `테스트` |
-| 16 | [하모니 팀의 협업 프로세스를 소개합니다 🌈](https://kakaotech-harmony.netlify.app/project/git-flow-strategy/) | `Git`, `Git-Flow` |
-| 17 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
-| 18 | [스프링에서 Argument Resolver 기반 어노테이션으로 인증 책임을 분리해보자!](https://kakaotech-harmony.netlify.app/backend/argument-resolver/) | `스프링`, `Argument Resolver` |
+| 1 | [Redis가 제공하는 RedLock 알고리즘 간단히 살펴보기](https://kakaotech-harmony.netlify.app/backend/redis-redlock/) | `Redis`, `동시성`, `분산락`, `RedLock` |
+| 2 | [Redis 분산 락(Distribution Lock)을 구현하여 동시성 해결하기](https://kakaotech-harmony.netlify.app/backend/redis-distribution-lock/) | `Redis`, `동시성`, `분산락` |
+| 3 | [Redis Pub/Sub 을 사용한 분산 환경에서 로컬 캐시 동기화](https://kakaotech-harmony.netlify.app/backend/redis-pub-sub-local-cache-synchornization/) | `Redis`, `캐시`, `스프링` |
+| 4 | [스프링 페이지네이션에서 발생한 Latency 의 원인과 커버링 인덱스 생성을 통한 문제 해결기](https://kakaotech-harmony.netlify.app/backend/pagnation-latency-db-covering-index/) | `Spring`, `MySQL`, `인덱스` |
+| 5 | [MySQL 인덱스 레인지 스캔을 통한 쿼리 성능 개선기](https://kakaotech-harmony.netlify.app/backend/index-range-scan-improvement/) | `Spring`, `MySQL`, `인덱스` |
+| 6 | [MySQL 8.0 레플리케이션 동작 과정과 아키텍처 구성 방식](https://kakaotech-harmony.netlify.app/backend/replication-architecture/) | `데이터베이스`, `레플리케이션`, `MySQL` |
+| 7 | [트랜잭션내에 커넥션을 점유하는 외부 API 요청 분리를 통한 TPS 개선기 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/transaction-separate-osiv-issue/) | `스프링`, `HikariCP`, `JPA`, `OSIV` |
+| 8 | [DB 레플리케이션 환경에서 DataSource 라우팅이 안되는 이슈 해결기 😤 (feat. JPA OSIV)](https://kakaotech-harmony.netlify.app/backend/replication-osiv-issue/) | `Spring`, `OSIV`, `JPA` |
+| 9 | [서버 성능 최적화를 위한 성능 테스트(Performance Test) 환경 구축](https://kakaotech-harmony.netlify.app/backend/performance-test/) | `스프링`, `성능개선` |
+| 10 | [스프링 로컬 캐시와 TTL 을 구현한 외부 서빙 API 요청 최적화](https://kakaotech-harmony.netlify.app/backend/local-cache-custom/) | `캐시`, `스프링` |
+| 11 | [JPA 비관적 락(Pessimistic Lock) 을 사용한 동시성 이슈 해결기](https://kakaotech-harmony.netlify.app/backend/pessmistic-lock/) | `Spring`, `동시성` |
+| 12 | [고가용성과 확장성을 확보하기 위한 아키텍처 전략](https://kakaotech-harmony.netlify.app/backend/high-availability-architecture/) | `고가용성`, `아키텍처` |
+| 13 | [JPA 낙관적 락과 비관적 락으로 엔티티에 대한 동시성 이슈 해결하기](https://kakaotech-harmony.netlify.app/backend/optimistic-pessimistic-lock/) | `Spring`, `동시성` |
+| 14 | [HikariCP 와 데이터베이스 커넥션 풀(DBCP) 최적화 고민하기 - 이론편](https://kakaotech-harmony.netlify.app/backend/hikaricp-theory/) | `Spring`, `HikariCP` |
+| 15 | [객체지향 생활 체조 원칙, 견고한 애플리케이션을 만들기 위해](https://kakaotech-harmony.netlify.app/backend/oop/) | `Spring`, `객체지향` |
+| 16 | [하모니 팀의 Jacoco 도입기 (feat. 테스트 커버리지)](https://kakaotech-harmony.netlify.app/backend/jacoco/) | `Spring`, `테스트` |
+| 17 | [격리된 테스트(Isolated Test) 구축과 빌드 최적화 여정 - 실전편](https://kakaotech-harmony.netlify.app/backend/isolated-active/) | `Spring`, `테스트` |
+| 18 | [하모니 팀의 협업 프로세스를 소개합니다 🌈](https://kakaotech-harmony.netlify.app/project/git-flow-strategy/) | `Git`, `Git-Flow` |
+| 19 | [OAuth 2.0 의 등장배경과 동작 메커니즘](https://kakaotech-harmony.netlify.app/backend/oauth/) | `HTTP`, `인증/인가`, `OAuth` |
+| 20 | [스프링에서 Argument Resolver 기반 어노테이션으로 인증 책임을 분리해보자!](https://kakaotech-harmony.netlify.app/backend/argument-resolver/) | `스프링`, `Argument Resolver` |
 
 ## 🎤 Tech Talk 기술 발표 세미나 
 
@@ -113,10 +115,13 @@ https://github.com/kakaotech-25/algorithm-study
 
 ## 🖋 블로깅
 
-💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.07 기준)까지 약 5달간 총 114개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
+💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.15 기준)까지 약 5달간 총 117개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
+| 117 | [Redis가 제공하는 RedLock 알고리즘 간단히 살펴보기](https://kakaotech-harmony.netlify.app/backend/redis-redlock/) | `Redis`, `동시성`, `분산락`, `RedLock` |
+| 116 | [Redis 분산 락(Distribution Lock)을 구현하여 동시성 해결하기](https://kakaotech-harmony.netlify.app/backend/redis-distribution-lock/) | `Redis`, `동시성`, `분산락` |
+| 115 | [토스 SLASH 23, 은행 최초 코어뱅킹 MSA 전환기(feat. 지금 이자 받기)](https://haon.blog/article/toss-slash/core-banking-msa/) | `토스 Slash`, `MSA` | 
 | 114 | [MySQL 레플리케이션 바이너리 로그 기록 타입 (Row, Statement, Mixed)](https://haon.blog/database/replication-event-format/) | `데이터베이스`, `레플리케이션` |
 | 113 | [글로벌 트랜잭션 (feat. GTID)](https://haon.blog/database/global-transaction/) | `데이터베이스`, `트랜잭션` |
 | 112 | [MySQL 레플리케이션 복제 동기화 방식 (비동기, 반동기)](https://haon.blog/database/replication-synchornization-type/) | `데이터베이스`, `레플리케이션` |
