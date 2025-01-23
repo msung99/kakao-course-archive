@@ -115,10 +115,20 @@ https://github.com/kakaotech-25/algorithm-study
 
 ## 🖋 블로깅
 
-💡 교육 과정 시작일(2024.07.01)부터 현재(2024.12.15 기준)까지 약 5달간 총 117개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
+💡 교육 과정 시작일(2024.07.01)부터 수료일(2024.12.31)까지 약 5달간 총 127개의 포스트를 작성하였습니다. 평균적으로 2일마다 하나의 포스팅을 꾸준히 작성했습니다.
 
 |순번|포스트|키워드(Tag)|
 |:---|:---|:---|
+| 127 | [MSA 환경에서 SAGA 패턴과 2PC 패턴를 통해 트랜잭션 일관성 보장하기](https://haon.blog/article/toss-slash/distribution-transaction/) | `MSA`, `SAGA`, `2PC`, `보상 트랜잭션` |
+| 126 | [확정할 수 없는 모종의 네트워크 에러/지연 문제를 안전하게 서비스하기](https://haon.blog/article/toss-slash/safely-network-handling-errors/) | `MSA`, `네트워크` |
+| 125 | [토스 SLASH 22, 애플 한 주가 고객에게 전달되기 까지](https://haon.blog/article/toss-slash/broker-issue-concurrency-and-network-latency/) | `MSA` |
+| 124 | [MSA 기초](https://haon.blog/kafka/msa/) | `MSA` |
+| 123 | [카프카(Kafka)의 특징은 무엇이고, 왜 사용하고, 기본 아키텍처는 어떻게 구성될까?](https://haon.blog/kafka/basic/) | `카프카`, `메시지 큐` |
+| 122 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 10장. 알림 시스템 설계](https://haon.blog/virtual-interview/chap04/) | `아키텍처`, `가상면접` |
+| 121 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 7장. 분산 시스템을 위한 유일 ID 생성기 설계](https://haon.blog/virtual-interview/chap07/) | `아키텍처`, `가상면접` |
+| 120 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 3장. 시스템 설계 면접 공략법](https://haon.blog/virtual-interview/chap03/) | `아키텍처`, `가상면접` |
+| 119 | [LazyConnectionDataSourceProxy 의 커넥션 획득 지연 방법](https://haon.blog/spring/lazy-connection-datasource-proxy/) | `스프링` |
+| 118 | [[가상 면접 사례로 배우는 대규모 시스템 설계 기초] 제 2장. 계략적인 규모 측정](https://haon.blog/virtual-interview/chap02/) | `아키텍처`, `가상면접`  |
 | 117 | [Redis가 제공하는 RedLock 알고리즘 간단히 살펴보기](https://kakaotech-harmony.netlify.app/backend/redis-redlock/) | `Redis`, `동시성`, `분산락`, `RedLock` |
 | 116 | [Redis 분산 락(Distribution Lock)을 구현하여 동시성 해결하기](https://kakaotech-harmony.netlify.app/backend/redis-distribution-lock/) | `Redis`, `동시성`, `분산락` |
 | 115 | [토스 SLASH 23, 은행 최초 코어뱅킹 MSA 전환기(feat. 지금 이자 받기)](https://haon.blog/article/toss-slash/core-banking-msa/) | `토스 Slash`, `MSA` | 
